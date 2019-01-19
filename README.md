@@ -1,2 +1,12 @@
 # Yeethoveen
-A programming language built on top of python that is very good and cool
+Example code you can figure it out from here:
+'''
+start:
+    print "first yeet"
+    goto yeet
+    fin
+    print "shouldn't show"
+yeet:
+    print "second line"
+    fin
+'''
