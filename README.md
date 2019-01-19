@@ -1,6 +1,6 @@
 # Yeethoveen
 Example code you can figure it out from here:
-'''
+''
 start:
     print "first yeet"
     goto yeet
@@ -9,4 +9,4 @@ start:
 yeet:
     print "second line"
     fin
-'''
+''
